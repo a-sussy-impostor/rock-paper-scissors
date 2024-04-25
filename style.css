@@ -1,0 +1,112 @@
+html { 
+  height: 100%;
+  width: 100%; 
+  background-color: #ebebeb; 
+} 
+.title { 
+  font-size: 2em; 
+  font-weight: bold; 
+  text-align: center; 
+  margin: 0 auto; 
+  padding: 0; 
+} 
+
+.sd { font-size: 1em; }
+.s0 { font-size: 1.2em; } 
+.s1 { font-size: 1.5em; } 
+.s-1 { font-size: 0.5em; } 
+.s2 { font-size: 2em; } 
+.s-2 { font-size: 0.25em; } 
+.s3 { font-size: 3em; } 
+.s4 { font-size: 5em; } 
+.s5 { font-size: 10em; } 
+
+.f0 { font-family: "Arial",sans-serif; } 
+.f1 { font-family: "Trebuchet MS",sans-serif; } 
+.f2 { font-family: "Courier New",monospace; } 
+.f3 { font-family: "Tahoma",sans-serif } 
+.f4 { font-family: "Times New Roman",serif } 
+.f5 { font-family: "Verdana",sans-serif } 
+
+.mid { text-align: center; } 
+
+.red { color: red; } 
+.green { color: green; } 
+.blue { color: blue; } 
+.yellow { color: yellow; } 
+.orange { color: orange; } 
+.pink { color: pink; } 
+.purple { color: purple; } 
+.cyan { color: cyan; } 
+.white { color: white; } 
+.black { color: black; } 
+.gray { color: gray; }
+
+.red-button { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: red; 
+  color: #fff; 
+} 
+.blue-button { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: blue; 
+  color:#fff 
+} 
+.primary-button { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: #5995e3; 
+  color:#fff 
+} 
+.secondary-button { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: #909998; 
+  color:#fff 
+} 
+.warning-button { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: #ffa500; 
+  color:#fff 
+} 
+.warning-button-red { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: #de0f02; 
+  color: #fff 
+} 
+.success-button { 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  text-align: center; 
+  border-radius: 10%; 
+  background-color: #00c400; 
+  color: #fff 
+} 
+
+.bold { font-weight: bold } 
+.italic { font-style: italic } 
+.underline { text-decoration: underline } 
+.strike { text-decoration: line-through } 
+
+.a0 { text-align: left; } 
+.a1 { text-align: center; } 
+.a2 { text-align: right; } 
+.a3 { text-align: end; } 
+
+.i { display: inline }
